@@ -153,6 +153,12 @@ export default function HomePage() {
                   <div className="p-5 pt-0 flex flex-col gap-2">
                     <Link
                       href={`/workouts/${id}`}
+                      onClick={() => {
+                        sessionStorage.setItem(
+                          "fitlog-selected-workout",
+                          JSON.stringify(item),
+                        );
+                      }}
                       className="w-full text-center bg-[#121212] border border-gray-800 text-gray-300 py-2.5 rounded-xl text-xs font-bold hover:border-lime-400 transition mb-1"
                     >
                       View Details
