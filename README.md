@@ -7,9 +7,7 @@
 
 ---
 
-## 📸 Screenshot
-> *(Replace the line below by dragging & dropping a screenshot of your live website directly into the GitHub editor)*
-![FitLog Live Preview](./screenshot.png)
+
 
 ---
 
