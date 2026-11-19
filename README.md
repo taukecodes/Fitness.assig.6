@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="FitLog" src="https://github.com/user-attachments/assets/98ba4e46-c68e-4599-a007-34202812aa7c" />
 # 🏋️ FitLog — Workout Tracking Web App
 
 **FitLog** is a clean, responsive workout and fitness tracking web application designed after a Penpot layout to help users organize routines and monitor their training progress effortlessly.
