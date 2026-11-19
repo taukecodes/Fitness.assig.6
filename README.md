@@ -1,36 +1,45 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🏋️ FitLog — Workout Tracking Web App
 
-## Getting Started
+**FitLog** is a clean, responsive workout and fitness tracking web application designed after a Penpot layout to help users organize routines and monitor their training progress effortlessly.
 
-First, run the development server:
+🔗 **Live Demo:** [https://fitness-site-one-amber.vercel.app](https://fitness-site-one-amber.vercel.app)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 📸 Screenshot
+> *(Replace the line below by dragging & dropping a screenshot of your live website directly into the GitHub editor)*
+![FitLog Live Preview](./screenshot.png)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## ✨ Major Features
+- **Workout Routine Management:** Log, organize, and track workout sessions cleanly.
+- **Design-Accurate UI:** Built with visual fidelity to a Penpot design system using clean spacing and modern cards.
+- **Responsive Layout:** Adapts smoothly across desktop, tablet, and mobile viewports.
+- **Fast & Interactive Experience:** Smooth client-side state updates and instant visual feedback.
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 🛠️ Tech Stack
+- **Frontend:** React, TypeScript
+- **Styling:** Tailwind CSS
+- **Design Reference:** Penpot
+- **Deployment:** Vercel
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 📦 Dependencies
+- `react` & `react-dom` – Component-based UI development
+- `typescript` – Type-safe code structure
+- `tailwindcss` – Utility-first styling framework
+- `lucide-react` / icons (if used in your project) – Clean interface icons
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 💻 Run Locally
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Follow these steps to run the project locally:
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/taukecodes/Fitness.assig.6.git](https://github.com/taukecodes/Fitness.assig.6.git)
